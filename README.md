@@ -75,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sameerapujari/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/sameerapujari/DSA/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
