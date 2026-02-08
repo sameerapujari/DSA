@@ -80,4 +80,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/sameerapujari/DSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/sameerapujari/DSA/tree/master/0595-big-countries) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/sameerapujari/DSA/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/sameerapujari/DSA/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/sameerapujari/DSA/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
