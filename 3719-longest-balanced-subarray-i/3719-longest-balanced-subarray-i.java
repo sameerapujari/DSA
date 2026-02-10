@@ -1,7 +1,8 @@
 class Solution {
     public int longestBalanced(int[] nums) {
         //distinct numbers
-        // maintain subarr till eve-odd=0 diff: distinct and eql cnt so far
+        // maintain subarr 
+        //brute force
         int n=nums.length;
         int ans = 0;
         for(int i=0; i<n; i++){
