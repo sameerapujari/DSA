@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sameerapujari/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/sameerapujari/DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sameerapujari/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3713-longest-balanced-substring-i](https://github.com/sameerapujari/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/sameerapujari/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Stack
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3713-longest-balanced-substring-i](https://github.com/sameerapujari/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/sameerapujari/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/sameerapujari/DSA/tree/master/3719-longest-balanced-subarray-i) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/sameerapujari/DSA/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
