@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sameerapujari/DSA/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/sameerapujari/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sameerapujari/DSA/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/sameerapujari/DSA/tree/master/3379-transformed-array) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/sameerapujari/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sliding Window
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sameerapujari/DSA/tree/master/0067-add-binary) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sameerapujari/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/sameerapujari/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/sameerapujari/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/sameerapujari/DSA/tree/master/3713-longest-balanced-substring-i) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sameerapujari/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
