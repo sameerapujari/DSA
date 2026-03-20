@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sameerapujari/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sameerapujari/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/sameerapujari/DSA/tree/master/3379-transformed-array) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sameerapujari/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sameerapujari/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/sameerapujari/DSA/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/sameerapujari/DSA/tree/master/3640-trionic-array-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sameerapujari/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sameerapujari/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sameerapujari/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Enumeration
 |  |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sameerapujari/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Matrix
+|  |
+| ------- |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sameerapujari/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 <!---LeetCode Topics End-->
