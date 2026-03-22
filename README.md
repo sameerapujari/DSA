@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sameerapujari/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0904-fruit-into-baskets](https://github.com/sameerapujari/DSA/tree/master/0904-fruit-into-baskets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sameerapujari/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sameerapujari/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sameerapujari/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/sameerapujari/DSA/tree/master/3379-transformed-array) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sameerapujari/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sameerapujari/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sameerapujari/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sameerapujari/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 <!---LeetCode Topics End-->
