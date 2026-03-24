@@ -12,6 +12,7 @@ class Solution {
             int mid = low +(hi-low)/2;
             for(int i:piles){
                 tothrs += (i+mid-1)/mid;
+                if(tothrs>h) break;  //optimise
             }
             if(tothrs<=h){
                 //find lower bounddd
