@@ -11,7 +11,7 @@ class Solution {
             long tothrs=0;
             int mid = low +(hi-low)/2;
             for(int i:piles){
-                tothrs += Math.ceil((double)i/mid);
+                tothrs += (i+mid-1)/mid;
             }
             if(tothrs<=h){
                 //find lower bounddd
