@@ -1,7 +1,6 @@
 class Solution {
     public int smallestDivisor(int[] nums, int threshold) {
         //to round- use math.ceil
-        if(nums.length>threshold) return -1;
         int low=1,hi=0;
         
         for(int i:nums){
@@ -12,7 +11,7 @@ class Solution {
             int sum=0;
             int mid= low+(hi-low)/2;
             for(int i: nums){
-                sum += (int) Math.ceil((double)i/mid);
+                sum += (i+mid-1)/mid;
             }
             if(sum>threshold) low=mid+1;
             else hi=mid-1;
