@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sameerapujari/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sameerapujari/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sameerapujari/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1539-kth-missing-positive-number](https://github.com/sameerapujari/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sameerapujari/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sameerapujari/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sameerapujari/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sameerapujari/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sameerapujari/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sameerapujari/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/sameerapujari/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Interactive
 |  |
 | ------- |
