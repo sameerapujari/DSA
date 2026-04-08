@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/sameerapujari/DSA/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/sameerapujari/DSA/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sameerapujari/DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/sameerapujari/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/sameerapujari/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3861-minimum-capacity-box](https://github.com/sameerapujari/DSA/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sameerapujari/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sameerapujari/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [1382-balance-a-binary-search-tree](https://github.com/sameerapujari/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/sameerapujari/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/sameerapujari/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sameerapujari/DSA/tree/master/0067-add-binary) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sameerapujari/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/sameerapujari/DSA/tree/master/3379-transformed-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/sameerapujari/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/sameerapujari/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sliding Window
 |  |
