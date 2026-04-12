@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sameerapujari/DSA/tree/master/0070-climbing-stairs) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sameerapujari/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sameerapujari/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3640-trionic-array-ii](https://github.com/sameerapujari/DSA/tree/master/3640-trionic-array-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sameerapujari/DSA/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/sameerapujari/DSA/tree/master/0070-climbing-stairs) |
 | [0441-arranging-coins](https://github.com/sameerapujari/DSA/tree/master/0441-arranging-coins) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sameerapujari/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sameerapujari/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sameerapujari/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sameerapujari/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sameerapujari/DSA/tree/master/3643-flip-square-submatrix-vertically) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sameerapujari/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
