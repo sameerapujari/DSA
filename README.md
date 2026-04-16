@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/sameerapujari/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sameerapujari/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sameerapujari/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1903-largest-odd-number-in-string](https://github.com/sameerapujari/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sameerapujari/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sameerapujari/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/sameerapujari/DSA/tree/master/3713-longest-balanced-substring-i) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/sameerapujari/DSA/tree/master/0455-assign-cookies) |
 | [1382-balance-a-binary-search-tree](https://github.com/sameerapujari/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1903-largest-odd-number-in-string](https://github.com/sameerapujari/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sameerapujari/DSA/tree/master/0070-climbing-stairs) |
 | [0441-arranging-coins](https://github.com/sameerapujari/DSA/tree/master/0441-arranging-coins) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sameerapujari/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1903-largest-odd-number-in-string](https://github.com/sameerapujari/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sameerapujari/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sameerapujari/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Backtracking
