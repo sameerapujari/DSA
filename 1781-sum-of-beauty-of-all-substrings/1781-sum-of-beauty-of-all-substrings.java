@@ -4,25 +4,20 @@ class Solution {
         int n = s.length();
         int ans = 0;
         for(int i=0; i<n; i++){
+            int[] freq = new int[26];
             for(int j=i; j<n; j++){
-                int beauty = getMinMax(s.substring(i,j+1));
-                ans += beauty;
+               freq[s.charAt(j)-'a']++;
+
+               int max=0, min=Integer.MAX_VALUE;
+               for(int f: freq){
+                if(f>0){
+                    if(f>max)max=f;
+                    if(f<min)min=f;
+                }
+               }
+               ans += max-min;
             }
         }
         return ans;
-    }
-    private int getMinMax(String str){
-        int[] freq = new int[26];
-         for(char c: str.toCharArray()){
-            freq[c-'a']++;
-         }
-         int min=Integer.MAX_VALUE, max=0;
-         for(int i: freq){
-            if(i>0){
-                if(i>max)max=i;
-                if(i<min)min=i;
-            }
-         }
-         return max-min;
     }
 }
