@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sameerapujari/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/sameerapujari/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/sameerapujari/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/sameerapujari/DSA/tree/master/0455-assign-cookies) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sameerapujari/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/sameerapujari/DSA/tree/master/0070-climbing-stairs) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sameerapujari/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sameerapujari/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sameerapujari/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/sameerapujari/DSA/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/sameerapujari/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/sameerapujari/DSA/tree/master/0076-minimum-window-substring) |
