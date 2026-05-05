@@ -4,13 +4,14 @@ class Solution {
         int r = s.length()-1;
 
         while(r>=0){
-            while(r>=0 && s.charAt(r)==' ') r--;
-
+            while(r>=0 && s.charAt(r) == ' ') r--;  //skip spacesss
             if(r<0) break;
-            int ptr = r;
-            while(r>=0 && s.charAt(r) != ' ') r--;
+            int l=r;
+            
+            while(l>=0 && s.charAt(l)!=' ')l--;
             if(sb.length()>0) sb.append(" ");
-            sb.append(s.substring(r+1,ptr+1));
+            sb.append(s.substring(l+1,r+1));
+            r = l-1;
         }
         return sb.toString();
     }
