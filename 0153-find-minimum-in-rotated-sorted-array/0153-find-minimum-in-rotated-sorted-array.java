@@ -1,20 +1,15 @@
 class Solution {
     public int findMin(int[] nums) {
-        //bs - tc:O(logn)
-        int low=0, high=nums.length-1;
-        int ans = Integer.MAX_VALUE;
-        while(low<=high){
-            int mid = low+(high-low)/2;
-            if(nums[mid]<=nums[high]){
-                
-                ans = Math.min(ans,nums[mid]);
-                high=mid-1;
-            } else {
-                ans = Math.min(ans,nums[low]);
-                low=mid+1;
+        int l=0, hi=nums.length-1;
+        while(l<hi){
+            int mid = l+(hi-l)/2;
+            if(nums[mid]>nums[hi]){
+                //go right
+                l=mid+1;
+            }else{
+                hi=mid;
             }
         }
-
-        return ans;
+        return nums[l];
     }
 }
