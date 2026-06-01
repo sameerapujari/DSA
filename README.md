@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sameerapujari/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/sameerapujari/DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/sameerapujari/DSA/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/sameerapujari/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sameerapujari/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sameerapujari/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sameerapujari/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/sameerapujari/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/sameerapujari/DSA/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/sameerapujari/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sameerapujari/DSA/tree/master/0242-valid-anagram) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sameerapujari/DSA/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/sameerapujari/DSA/tree/master/0073-set-matrix-zeroes) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sameerapujari/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sameerapujari/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sameerapujari/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
