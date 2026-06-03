@@ -3,7 +3,7 @@ class Solution {
         //3 ptrs
         int n = nums.length;
         int l=0, m=0, h=n-1;
-        for(int i=0; i<n; i++){
+        while(m<=h){
             //for 0
             if(nums[m]==0){
                 swap(nums,l,m);
