@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sameerapujari/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/sameerapujari/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/sameerapujari/DSA/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/sameerapujari/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sameerapujari/DSA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/sameerapujari/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sameerapujari/DSA/tree/master/0075-sort-colors) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sameerapujari/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/sameerapujari/DSA/tree/master/0053-maximum-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/sameerapujari/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sameerapujari/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/sameerapujari/DSA/tree/master/3719-longest-balanced-subarray-i) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sameerapujari/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/sameerapujari/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sameerapujari/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sameerapujari/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sameerapujari/DSA/tree/master/0118-pascals-triangle) |
