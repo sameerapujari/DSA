@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sameerapujari/DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/sameerapujari/DSA/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/sameerapujari/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sameerapujari/DSA/tree/master/0070-climbing-stairs) |
 | [0441-arranging-coins](https://github.com/sameerapujari/DSA/tree/master/0441-arranging-coins) |
@@ -311,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/sameerapujari/DSA/tree/master/0061-rotate-list) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sameerapujari/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
