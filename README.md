@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sameerapujari/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sameerapujari/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sameerapujari/DSA/tree/master/0162-find-peak-element) |
+| [0229-majority-element-ii](https://github.com/sameerapujari/DSA/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sameerapujari/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/sameerapujari/DSA/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sameerapujari/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sameerapujari/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sameerapujari/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sameerapujari/DSA/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/sameerapujari/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sameerapujari/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sameerapujari/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/sameerapujari/DSA/tree/master/0455-assign-cookies) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sameerapujari/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/sameerapujari/DSA/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/sameerapujari/DSA/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/sameerapujari/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sameerapujari/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sameerapujari/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/sameerapujari/DSA/tree/master/0904-fruit-into-baskets) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/sameerapujari/DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/sameerapujari/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sameerapujari/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/sameerapujari/DSA/tree/master/2833-furthest-point-from-origin) |
