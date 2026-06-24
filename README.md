@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sameerapujari/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/sameerapujari/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sameerapujari/DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/sameerapujari/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sameerapujari/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sameerapujari/DSA/tree/master/0118-pascals-triangle) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sameerapujari/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sameerapujari/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sameerapujari/DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/sameerapujari/DSA/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/sameerapujari/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sameerapujari/DSA/tree/master/0070-climbing-stairs) |
 | [0441-arranging-coins](https://github.com/sameerapujari/DSA/tree/master/0441-arranging-coins) |
@@ -331,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sameerapujari/DSA/tree/master/0050-powx-n) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sameerapujari/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
