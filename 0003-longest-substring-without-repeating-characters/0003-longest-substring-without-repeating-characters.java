@@ -7,11 +7,9 @@ class Solution {
 
         for(int r=0; r<s.length(); r++){
             char ch = s.charAt(r);
-            if(lastseen[ch] != -1){
-                l = Math.max(l,lastseen[ch]+1);
-            }
-            lastseen[ch] = r;
+            l = Math.max(l,lastseen[ch]);
             ans=Math.max(ans,r-l+1);
+            lastseen[ch]=r+1;
         }
         return ans;
     }
