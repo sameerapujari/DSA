@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/sameerapujari/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sameerapujari/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sameerapujari/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/sameerapujari/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sameerapujari/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sameerapujari/DSA/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sameerapujari/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sameerapujari/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sameerapujari/DSA/tree/master/0076-minimum-window-substring) |
+| [0643-maximum-average-subarray-i](https://github.com/sameerapujari/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/sameerapujari/DSA/tree/master/0904-fruit-into-baskets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sameerapujari/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sameerapujari/DSA/tree/master/3634-minimum-removals-to-balance-array) |
