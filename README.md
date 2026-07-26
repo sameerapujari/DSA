@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sameerapujari/DSA/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/sameerapujari/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sameerapujari/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sameerapujari/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/sameerapujari/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sameerapujari/DSA/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sameerapujari/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sameerapujari/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sameerapujari/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/sameerapujari/DSA/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sameerapujari/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1094-car-pooling](https://github.com/sameerapujari/DSA/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/sameerapujari/DSA/tree/master/1288-remove-covered-intervals) |
 | [2784-check-if-array-is-good](https://github.com/sameerapujari/DSA/tree/master/2784-check-if-array-is-good) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sameerapujari/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sameerapujari/DSA/tree/master/0070-climbing-stairs) |
 | [0441-arranging-coins](https://github.com/sameerapujari/DSA/tree/master/0441-arranging-coins) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sameerapujari/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sameerapujari/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sameerapujari/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/sameerapujari/DSA/tree/master/1903-largest-odd-number-in-string) |
