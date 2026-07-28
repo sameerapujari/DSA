@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/sameerapujari/DSA/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sameerapujari/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sameerapujari/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sameerapujari/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sameerapujari/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sameerapujari/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sameerapujari/DSA/tree/master/3634-minimum-removals-to-balance-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sameerapujari/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sameerapujari/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sameerapujari/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sameerapujari/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3713-longest-balanced-substring-i](https://github.com/sameerapujari/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/sameerapujari/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Stack
@@ -396,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sameerapujari/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sameerapujari/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sameerapujari/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
