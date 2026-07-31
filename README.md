@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sameerapujari/DSA/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/sameerapujari/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sameerapujari/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/sameerapujari/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sameerapujari/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/sameerapujari/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sameerapujari/DSA/tree/master/0704-binary-search) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sameerapujari/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sameerapujari/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sameerapujari/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/sameerapujari/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/sameerapujari/DSA/tree/master/0904-fruit-into-baskets) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sameerapujari/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sameerapujari/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sameerapujari/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sameerapujari/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/sameerapujari/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sameerapujari/DSA/tree/master/0724-find-pivot-index) |
 | [1094-car-pooling](https://github.com/sameerapujari/DSA/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/sameerapujari/DSA/tree/master/1109-corporate-flight-bookings) |
