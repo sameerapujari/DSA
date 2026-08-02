@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sameerapujari/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sameerapujari/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sameerapujari/DSA/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/sameerapujari/DSA/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/sameerapujari/DSA/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sameerapujari/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/sameerapujari/DSA/tree/master/0303-range-sum-query-immutable) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/sameerapujari/DSA/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/sameerapujari/DSA/tree/master/0200-number-of-islands) |
 | [1382-balance-a-binary-search-tree](https://github.com/sameerapujari/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sameerapujari/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sameerapujari/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sameerapujari/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/sameerapujari/DSA/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sameerapujari/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sameerapujari/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sameerapujari/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sameerapujari/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/sameerapujari/DSA/tree/master/0200-number-of-islands) |
 ## Design
 |  |
 | ------- |
@@ -411,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sameerapujari/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sameerapujari/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
