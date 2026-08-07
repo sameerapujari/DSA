@@ -1,32 +1,39 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-       //2 pointer 
-       //final size of merged arr: m+n 
+       //2 pointer - O(m+n)
        //median odd - x/2, even avg (x/2 , x/2 +1) 
-        int m = nums1.length, n = nums2.length;
-        int x = m + n;
+       //use bs logic for log tc
 
-        int p1 = 0, p2 = 0;
-        int cnt = 0;
+       //edgee caseeee
+       if(nums1.length>nums2.length) return findMedianSortedArrays(nums2,nums1);
+       int n=nums1.length, m=nums2.length;
+       int low=0, hi= n;
 
-        int prev = 0, curr = 0;
+       while(low<=hi){
+            int par1 = (low+hi)/2;
+            int par2 = (n+m+1)/2-par1;
 
-        while (cnt <= x / 2) {
-            prev = curr;
+            //check boundaries
+            int l1 = par1 == 0 ? Integer.MIN_VALUE : nums1[par1-1];
+            int l2 = par2 == 0 ? Integer.MIN_VALUE : nums2[par2-1];
 
-            if (p1 < m && (p2 >= n || nums1[p1] <= nums2[p2])) {
-                curr = nums1[p1++];
-            } else {
-                curr = nums2[p2++];
+            int r1 = par1 == n ? Integer.MAX_VALUE : nums1[par1];
+            int r2 = par2 == m ? Integer.MAX_VALUE : nums2[par2];
+
+            //check ans medians
+            if(l1<=r2 && l2<=r1){
+                if((n+m)%2==0){
+                    //even median
+                    return (Math.max(l1,l2)+Math.min(r1,r2))/2.0;
+                }else {
+                    return (Math.max(l1,l2));
+                }
             }
-            cnt++;
-        }
 
-        if (x % 2 == 0)
-            return (curr + prev) / 2.0; 
-        else
-            return curr;
-
-       
+            //aaply BS
+            else if(l1>r2) hi = par1-1;
+            else low = par1+1;
+       }
+       return 0.0;
     }
 }
