@@ -1,7 +1,7 @@
 class Solution {
     public int maxSubarrayLength(int[] nums, int k) {
         //sliding window
-        Map<Integer, Integer> map = new HashMap<>();
+        HashMap<Integer, Integer> map = new HashMap<>();
         int l=0, r=0, ans=0, n=nums.length;
         while(r<n){
             map.put(nums[r], map.getOrDefault(nums[r],0)+1);
