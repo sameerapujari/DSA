@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sameerapujari/DSA/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/sameerapujari/DSA/tree/master/0155-min-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/sameerapujari/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sameerapujari/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Database
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sameerapujari/DSA/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/sameerapujari/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sameerapujari/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 ## Counting Sort
