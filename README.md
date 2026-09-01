@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sameerapujari/DSA/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/sameerapujari/DSA/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/sameerapujari/DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/sameerapujari/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sameerapujari/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/sameerapujari/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sameerapujari/DSA/tree/master/0304-range-sum-query-2d-immutable) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sameerapujari/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sameerapujari/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sameerapujari/DSA/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/sameerapujari/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/sameerapujari/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/sameerapujari/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/sameerapujari/DSA/tree/master/0441-arranging-coins) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sameerapujari/DSA/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/sameerapujari/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sameerapujari/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sameerapujari/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/sameerapujari/DSA/tree/master/1009-complement-of-base-10-integer) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sameerapujari/DSA/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/sameerapujari/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sameerapujari/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sameerapujari/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/sameerapujari/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/sameerapujari/DSA/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sameerapujari/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sameerapujari/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/sameerapujari/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sameerapujari/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sameerapujari/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/sameerapujari/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sameerapujari/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/sameerapujari/DSA/tree/master/0496-next-greater-element-i) |
@@ -357,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sameerapujari/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sameerapujari/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sameerapujari/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/sameerapujari/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/sameerapujari/DSA/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/sameerapujari/DSA/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/sameerapujari/DSA/tree/master/0523-continuous-subarray-sum) |
