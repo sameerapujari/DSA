@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/sameerapujari/DSA/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/sameerapujari/DSA/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/sameerapujari/DSA/tree/master/0547-number-of-provinces) |
 | [1382-balance-a-binary-search-tree](https://github.com/sameerapujari/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sameerapujari/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/sameerapujari/DSA/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/sameerapujari/DSA/tree/master/0547-number-of-provinces) |
 ## Design
 |  |
 | ------- |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sameerapujari/DSA/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/sameerapujari/DSA/tree/master/0547-number-of-provinces) |
 ## Brainteaser
 |  |
 | ------- |
@@ -491,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sameerapujari/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sameerapujari/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
