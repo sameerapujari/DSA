@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/sameerapujari/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/sameerapujari/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/sameerapujari/DSA/tree/master/0904-fruit-into-baskets) |
+| [0994-rotting-oranges](https://github.com/sameerapujari/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/sameerapujari/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sameerapujari/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/sameerapujari/DSA/tree/master/1094-car-pooling) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sameerapujari/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/sameerapujari/DSA/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sameerapujari/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0994-rotting-oranges](https://github.com/sameerapujari/DSA/tree/master/0994-rotting-oranges) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sameerapujari/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sameerapujari/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sameerapujari/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/sameerapujari/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sameerapujari/DSA/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/sameerapujari/DSA/tree/master/0994-rotting-oranges) |
 ## Brainteaser
 |  |
 | ------- |
